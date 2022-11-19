@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace zadacha1
+namespace zadacha2
 {
     class Program
     {
